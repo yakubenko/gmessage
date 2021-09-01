@@ -1,0 +1,18 @@
+{
+    "name": "yakubenko/generic_message",
+    "description": "A generic message class for Symfony Messenger and similar components",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stan Yakubenko",
+            "email": "sn.yakubenko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yakubenko\\Message\\": "src/"
+        }
+    },
+    "require": {}
+}
