@@ -1,7 +1,7 @@
 {
     "name": "yakubenko/generic_message",
     "description": "A generic message class for Symfony Messenger and similar components",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
